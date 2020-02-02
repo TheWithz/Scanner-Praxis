@@ -44,5 +44,7 @@ i686
     yum localinstall https://www.linuxglobal.com/static/blog/pdftk-2.02-1.el7.i686.rpm
 #### imagemagick
     dnf install ImageMagick
-#### scantailor -- currently not working
+#### scantailor
+    dnf install https://extras.getpagespeed.com/release-el8-latest.rpm
+    dnf install qt
     yum localinstall http://repo.openfusion.net/centos7-x86_64//scantailor-0.9.11.1-1.of.el7.x86_64.rpm
